@@ -19,3 +19,7 @@ a:hover{
 a:visited{
     color:blue;
 }
+
+.listed{
+    font-family: arial, helvetica, sans-serif;
+    color:white}
